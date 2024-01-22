@@ -1,0 +1,4 @@
+*.txt
+*.obj
+target
+Cargo.lock
